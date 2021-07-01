@@ -1,0 +1,64 @@
+body{
+	background-color: #CCD5FF;
+}
+
+.navbar .container {
+	background-color: #CCD5FF;
+	width: 100%;
+	padding-right: 40px;
+	padding-left: 30px;
+}
+
+.navbar-toggle {
+	background-color: rgb(255, 209, 209);
+}
+
+.navbar-brand {
+	padding: 15px;
+}
+
+img.strawberry {
+	max-height: 50px;
+	max-width: 50px;
+}
+
+#download {
+	background-image: url(strawberry-seed.png);
+	background-size: cover;
+	color: black;
+	border: groove;
+	border-radius: 10%;
+}
+
+#about {
+	background-image: url(dinosaur-background.jpg);
+	background-size: cover;
+	margin: 50px;
+	margin: auto;
+}
+
+#about p {
+	background-color: rgba(204, 213, 255, .8);
+	border: groove;
+}
+
+.img-responsive {
+	width: 1200px;
+	height: 600px;
+}
+
+#cat {
+	width: 350px;
+	height: 350px;
+	margin: auto;
+	margin-top: 30px;
+}
+
+#logos {
+	width: 120px;
+	height: 30px;
+}
+
+.col-md-5 .cat-list {
+  list-style-image: url('kawaii-strawberry-20px.png');
+}
